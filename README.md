@@ -1,2 +1,3 @@
 # git-PKGLIST
 My Ubuntu based pkgs... i will try and reinstall them later...
+Read APTLIST!
